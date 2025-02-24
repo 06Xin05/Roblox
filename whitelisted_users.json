@@ -38,9 +38,10 @@
       "3tggevevmainalt"
     ],
     "roleNames": [
-      "AOTBuyer"
+      "AOTBuyer",
+      "JBBuyer"
     ],
-    "whitelistExpiresAt": 1740502387,
+    "whitelistExpiresAt": null,
     "timeLeft": "24 hours, 0 minutes, 0 seconds"
   }
 ]
