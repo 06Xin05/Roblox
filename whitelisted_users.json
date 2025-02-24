@@ -62,7 +62,8 @@
     ],
     "roleNames": [
       "AOTBuyer",
-      "SLBuyer"
+      "SLBuyer",
+      "JBBuyer"
     ],
     "whitelistExpiresAt": null
   }
