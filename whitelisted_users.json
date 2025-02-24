@@ -61,7 +61,8 @@
       "3tggevevmainAlt"
     ],
     "roleNames": [
-      "AOTBuyer"
+      "AOTBuyer",
+      "SLBuyer"
     ],
     "whitelistExpiresAt": null
   }
