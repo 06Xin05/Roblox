@@ -61,7 +61,8 @@
       "king1king2king33"
     ],
     "roleNames": [
-      "SLBuyer"
+      "SLBuyer",
+      "AOTBuyer"
     ],
     "whitelistExpiresAt": null
   }
