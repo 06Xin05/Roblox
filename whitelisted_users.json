@@ -31,5 +31,15 @@
     ],
     "whitelistExpiresAt": 1740502327,
     "timeLeft": "24 hours, 0 minutes, 0 seconds"
+  },
+  {
+    "discordId": "1190428625510600734",
+    "robloxUsernames": [
+      "3tggevevmainalt"
+    ],
+    "roleNames": [
+      "AOTBuyer"
+    ],
+    "whitelistExpiresAt": null
   }
 ]
