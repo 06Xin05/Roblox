@@ -85,9 +85,10 @@
       "RonaldAraujoTheWall"
     ],
     "roleNames": [
-      "SLBuyer"
+      "SLBuyer",
+      "JBBuyer"
     ],
-    "whitelistExpiresAt": 1740574628,
+    "whitelistExpiresAt": null,
     "timeLeft": "24 hours, 0 minutes, 0 seconds"
   }
 ]
