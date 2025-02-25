@@ -1,17 +1,5 @@
 [
   {
-    "discordId": "1014866177174020136",
-    "robloxUsernames": [
-      "king1king2king33"
-    ],
-    "roleNames": [
-      "SLBuyer",
-      "AOTBuyer"
-    ],
-    "whitelistExpiresAt": 1740504607,
-    "timeLeft": "0 hours, 0 minutes, 57 seconds"
-  },
-  {
     "discordId": "1190428625510600734",
     "robloxUsernames": [
       "3tggevevmainAlt"
@@ -22,7 +10,7 @@
       "JBBuyer"
     ],
     "whitelistExpiresAt": 1740504787,
-    "timeLeft": "0 hours, 3 minutes, 57 seconds"
+    "timeLeft": "0 hours, 2 minutes, 57 seconds"
   },
   {
     "discordId": "1038880524841791588",
@@ -33,7 +21,7 @@
       "SLBuyer"
     ],
     "whitelistExpiresAt": 1740508628,
-    "timeLeft": "1 hours, 7 minutes, 58 seconds"
+    "timeLeft": "1 hours, 6 minutes, 58 seconds"
   },
   {
     "discordId": "1108074723071496212",
@@ -45,6 +33,6 @@
       "JBBuyer"
     ],
     "whitelistExpiresAt": 1740574688,
-    "timeLeft": "19 hours, 28 minutes, 58 seconds"
+    "timeLeft": "19 hours, 27 minutes, 58 seconds"
   }
 ]
