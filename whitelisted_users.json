@@ -78,5 +78,15 @@
     ],
     "whitelistExpiresAt": 1740508628,
     "timeLeft": "5 hours, 41 minutes, 0 seconds"
+  },
+  {
+    "discordId": "1108074723071496212",
+    "robloxUsernames": [
+      "RonaldAraujoTheWall"
+    ],
+    "roleNames": [
+      "SLBuyer"
+    ],
+    "whitelistExpiresAt": null
   }
 ]
