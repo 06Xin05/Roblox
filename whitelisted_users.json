@@ -1,16 +1,5 @@
 [
   {
-    "discordId": "946163989010849834",
-    "robloxUsernames": [
-      "ErmmmmCosmic"
-    ],
-    "roleNames": [
-      "SLBuyer"
-    ],
-    "whitelistExpiresAt": 1740674597,
-    "timeLeft": "0 hours, 46 minutes, 28 seconds"
-  },
-  {
     "discordId": "1343544251627343935",
     "robloxUsernames": [
       "xROLEPLAY_x1"
@@ -19,7 +8,7 @@
       "SLBuyer"
     ],
     "whitelistExpiresAt": 1740754009,
-    "timeLeft": "22 hours, 50 minutes, 0 seconds"
+    "timeLeft": "20 hours, 45 minutes, 50 seconds"
   },
   {
     "discordId": "1218788234860171286",
@@ -30,7 +19,7 @@
       "AOTBuyer"
     ],
     "whitelistExpiresAt": 1740754069,
-    "timeLeft": "22 hours, 51 minutes, 0 seconds"
+    "timeLeft": "20 hours, 46 minutes, 50 seconds"
   },
   {
     "discordId": "880438993962016899",
@@ -40,6 +29,7 @@
     "roleNames": [
       "SLBuyer"
     ],
-    "whitelistExpiresAt": null
+    "whitelistExpiresAt": 1740765659,
+    "timeLeft": "24 hours, 0 minutes, 0 seconds"
   }
 ]
