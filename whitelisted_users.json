@@ -8,7 +8,7 @@
       "SLBuyer"
     ],
     "whitelistExpiresAt": 1740674597,
-    "timeLeft": "1 hours, 56 minutes, 28 seconds"
+    "timeLeft": "1 hours, 55 minutes, 28 seconds"
   },
   {
     "discordId": "1343544251627343935",
@@ -19,7 +19,7 @@
       "SLBuyer"
     ],
     "whitelistExpiresAt": 1740754009,
-    "timeLeft": "24 hours, 0 minutes, 0 seconds"
+    "timeLeft": "23 hours, 59 minutes, 0 seconds"
   },
   {
     "discordId": "1218788234860171286",
@@ -29,6 +29,7 @@
     "roleNames": [
       "AOTBuyer"
     ],
-    "whitelistExpiresAt": null
+    "whitelistExpiresAt": 1740754069,
+    "timeLeft": "24 hours, 0 minutes, 0 seconds"
   }
 ]
